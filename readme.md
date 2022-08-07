@@ -6,7 +6,7 @@
 
 <h3 align="center">RIFAI CAFE</h3>
 <div align="center">
-<a href="https://rifai-adventure.netlify.app/">View Demo</a>
+<a href="https://rifai-cafe.netlify.app">View Demo</a>
 </div>
 
 <!-- ABOUT THE PROJECT -->
