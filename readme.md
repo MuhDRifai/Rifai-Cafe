@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 <div align="center">
-  <img height="300" src="img/logo.png" />
+  <img height="300" src="img/logo-1.png" />
 </div>
 
 <h3 align="center">RIFAI CAFE</h3>
